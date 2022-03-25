@@ -3,7 +3,7 @@ import './Product.css'
 import { BsCartPlus } from 'react-icons/bs';
 
 const Product = (props) => {
-    const {id, name, img, price} = props.product
+    const {name, img, price} = props.product
     const {product, handleAddToCart} = props
     return (
         <div className='product'>
@@ -12,7 +12,7 @@ const Product = (props) => {
                 <h1>{name}</h1>
                 <p>price: {price}</p>
             </div>
-            <div className='btn-cart' onClick={handleAddToCart(product)}>
+            <div onClick={()=> handleAddToCart(product)} className='btn-cart' >
                 <p className='btn-p'>ADD TO CART </p>
                 <BsCartPlus></BsCartPlus>
             </div>

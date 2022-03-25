@@ -25,92 +25,56 @@
     },
     {
     "id": 5,
-    "name": "Beretta A400 Xcel",
-    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/beretta-shotgun.png",
-    "bullet": "12 Gauge",
-    "capacity": "3 + 1",
-    "action": "Semi-Automatic",
-    "price": "1720",
-    "category": "Shotgun"
+    "name": "Samsung Galaxy S20",
+    "img": "https://images.unsplash.com/photo-1584006682522-dc17d6c0d9ac?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1935&q=80",
+    "price": "172000"
     },
     {
     "id": 6,
-    "name": "Benelli M1014",
-    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/benalim4.png",
-    "bullet": "12 Gauge",
-    "capacity": "5 + 1",
-    "action": "Semi-Automatic",
-    "price": "1900",
-    "category": "Shotgun"
+    "name": "iPhone 12 Pro",
+    "img": "https://images.unsplash.com/photo-1603921326210-6edd2d60ca68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=726&q=80",
+    "price": "190000"
     },
     {
     "id": 7,
-    "name": "Browning Citori 725",
-    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/Browning.png",
-    "bullet": "12 Gauge",
-    "capacity": "2",
-    "action": "Double Shot",
-    "price": "5430",
-    "category": "Shotgun"
+    "name": "Xiaomi Note 10 Pro",
+    "img": "https://images.unsplash.com/photo-1591531040045-f67662954f54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=744&q=80",
+    "price": "54300"
     },
     {
     "id": 8,
-    "name": "Winchester SXP",
-    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/winchester.png",
-    "bullet": "12 Gauge",
-    "capacity": "5 + 1",
-    "action": "Pump",
-    "price": "570",
-    "category": "Shotgun"
+    "name": "Xiaomi Mi Note 10 Lite",
+    "img": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=744&q=80",
+    "price": "14000"
     },
     {
     "id": 9,
-    "name": "Bergara B-14 HMR",
-    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/bergara.png",
-    "bullet": "6.5 Creedmoor",
-    "capacity": "5",
-    "action": "Semi-Automatic",
-    "price": "970",
-    "category": "Rifle"
+    "name": "Poco F2 Pro",
+    "img": "https://images.unsplash.com/photo-1590912010420-1ecaa6325a4b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=681&q=80",
+    "price": "9700"
     },
     {
     "id": 10,
-    "name": "Smith & Wesson M&P15",
-    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/S%26WM%26P15.png",
-    "bullet": "5.56x45mm NATO",
-    "capacity": "30 + 1",
-    "action": "Semi-Automatic",
-    "price": "800",
-    "category": "Rifle"
+    "name": "iPhone 11 White",
+    "img": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "price": "80000"
     },
     {
     "id": 11,
-    "name": "Ruger AR-556",
-    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/RugerAR556.png",
-    "bullet": ".223 NATO",
-    "capacity": "30+1",
-    "action": "Semi-Automatic",
-    "price": "750",
-    "category": "Rifle"
+    "name": "Nokia E72",
+    "img": "https://images.unsplash.com/photo-1609500537901-91f5b4c900e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "price": "7500"
     },
     {
     "id": 12,
-    "name": "Ruger AR-556 MPR",
-    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/RugerAR556RMP.png",
-    "bullet": ".223 NATO",
-    "capacity": "30 + 1",
-    "action": "Semi-Automatic",
-    "price": "880",
-    "category": "Rifle"
+    "name": "Nokia's 6110",
+    "img": "https://images.unsplash.com/photo-1626726092122-f5b2af39faf6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
+    "price": "8800"
     },
     {
     "id": 13,
-    "name": "Savage 110 Elite",
-    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/savage110.png",
-    "bullet": ".300 Winchester Magnum",
-    "capacity": "5",
-    "action": "Bolt",
-    "price": "1870",
-    "category": "Rifle"
+    "name": "Motorola Razr ",
+    "img": "https://images.unsplash.com/photo-1614767464545-533644010662?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+    "price": "18700"
     }
     ]

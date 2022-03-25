@@ -1,0 +1,11 @@
+.cart{
+    display: flex;
+    align-items: center;
+}
+.cart img{
+   height: 40px;
+   width: 40px;
+   border-radius: 25px;
+   margin-right: 5px;
+}
+
