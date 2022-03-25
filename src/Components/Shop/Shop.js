@@ -40,15 +40,16 @@ const Shop = () => {
 
             {/* cart container */}
             <div className='cart-container'>
-                {/* <Cart cart={cart}></Cart> */}
+                <h1>Cart Option</h1>
                 {
                     cart.map(item=> <Cart 
                         key={item.id}
                         cart={item}
                         > 
-
                     </Cart>)
                 }
+                <button>Choose For Me</button>
+                <button>Choose Again</button>
             </div>
         </div>
     );
