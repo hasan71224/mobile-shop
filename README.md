@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Mobile Shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Website [Mobile Shop](https://mobile-shop-assignment-8.netlify.app/).
+
+## https://mobile-shop-assignment-8.netlify.app/
 
 ## Available Scripts
 
