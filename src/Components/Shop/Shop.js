@@ -9,8 +9,10 @@ const Shop = () => {
     // console.log(cart);
     const handleAddToCart=(product)=>{
         // console.log(product);
+
         const newCart=[...cart, product]
         setCart(newCart)
+
         // console.log(setCart);
     }
     // choose For Me
@@ -33,11 +35,7 @@ const Shop = () => {
  
     return (
         <div className='shop-Container'>
-            {/* <div>
-                {
-                    cart.map(item=><h1 key={item.id} cart={item}>{item.name}</h1>)
-                }
-            </div> */}
+            
             {/* //shop container */}
                 <div className='product-container'>
                    {
@@ -59,8 +57,8 @@ const Shop = () => {
                         > 
                     </Cart>)
                 }
-                <button onClick={chooseForMe}>Choose For Me</button>
-                <button onClick={refresh}>Choose Again</button>
+                <button className='find-btn' onClick={chooseForMe}>Choose For Me</button>
+                <button className='again-btn' onClick={refresh}>Choose Again</button>
             </div>
         </div>
     );

@@ -29,3 +29,6 @@
 .btn-cart p{
     margin-right: 5px;
 }
+.btn-cart:hover{
+    background-color: aquamarine;
+}
