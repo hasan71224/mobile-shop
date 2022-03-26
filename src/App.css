@@ -24,6 +24,10 @@
 .App-link {
   color: #61dafb;
 }
+.Defination{
+  background-color: cadetblue;
+  padding: 30px;
+}
 
 @keyframes App-logo-spin {
   from {
