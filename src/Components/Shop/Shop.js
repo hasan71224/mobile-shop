@@ -13,6 +13,17 @@ const Shop = () => {
         setCart(newCart)
         // console.log(setCart);
     }
+    // choose For Me
+    function chooseForMe(){
+        const choose = Math.floor(Math.random() * cart.length)
+        // console.log(choose, cart[choose]);
+        setCart([cart[choose]]);
+    }
+    // delete all item
+    function refresh(){
+        setCart([])
+    }
+
     
     useEffect(()=>{
         fetch('products.json')
@@ -48,8 +59,8 @@ const Shop = () => {
                         > 
                     </Cart>)
                 }
-                <button>Choose For Me</button>
-                <button>Choose Again</button>
+                <button onClick={chooseForMe}>Choose For Me</button>
+                <button onClick={refresh}>Choose Again</button>
             </div>
         </div>
     );
