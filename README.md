@@ -4,7 +4,7 @@ Live Website [Mobile Shop](https://mobile-shop-assignment-8.netlify.app/).
 
 ## https://mobile-shop-assignment-8.netlify.app/
 
-## Available Scripts
+## Description
 
 In the project directory, you can run:
 
